@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+C:\Users\IBM_ADMIN\Documents\GitHub\ADS3N14_1A\.metadata\.plugins\org.eclipse.jdt.core
+1976860080.index
+2568874309.index
+171521544.index
